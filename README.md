@@ -1,4 +1,4 @@
-<h1>🪨 Schere-Stein-Papier Spiel ✂️</h1>
+<h1>🪨 Schere-Stein-Papier Spiel (English Version)✂️</h1>
 <h2>📋 Beschreibung</h2>
 <p>Dieses Projekt ist eine einfache Implementierung des klassischen Spiels "Schere, Stein, Papier". Der Spieler tritt gegen den Computer an, der seinen Zug mithilfe eines zufälligen (random) Prinzips generiert.</p>
 <h2>🛠️ Features</h2>
